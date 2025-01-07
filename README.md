@@ -34,5 +34,5 @@ To install the required libraries, use the following commands:
 
 3. Run the script:
     ```bash
-    python script_name.py
+    python scraping.py
     ```
